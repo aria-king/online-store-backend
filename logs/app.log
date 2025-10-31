@@ -1,0 +1,8 @@
+2025-10-31T08:15:20.909Z [ERROR] POST /api/auth/login - Invalid credentials 
+2025-10-31T08:16:12.073Z [ERROR] POST /api/auth/login - Invalid credentials 
+2025-10-31T08:17:19.114Z [ERROR] POST /api/auth/register - Registration failed 
+2025-10-31T08:17:44.001Z [ERROR] POST /api/auth/register - Registration failed 
+2025-10-31T08:20:33.924Z [ERROR] POST /api/auth/verify-biometric - Biometric verification failed 
+2025-10-31T08:20:45.834Z [ERROR] POST /api/auth/verify-hardware - Hardware verification failed 
+2025-10-31T08:20:53.752Z [ERROR] POST /api/auth/login - Invalid credentials 
+2025-10-31T08:20:59.924Z [ERROR] POST /api/auth/register - Registration failed 
